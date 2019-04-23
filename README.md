@@ -13,3 +13,6 @@ Tensorflow
 keras
 matplotlib
 numpy
+
+This code snippet is trained on mnist dataset of images(of size28*28) of handwritten digits.
+after proper training and validation it will predict the digit from the test image with accuracy of ~98%
